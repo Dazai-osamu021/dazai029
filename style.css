@@ -1,0 +1,36 @@
+.box div{
+    border: 1px solid black;
+    width: 300px;
+    height: 180px;
+    margin-top: 10px;
+    background-color: red;
+    align-items: center;
+    color: white;
+    text-align: center;
+    padding-top: 130px;
+
+}
+
+.box{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.a0{
+    border: 0px solid;
+   display: flex;
+   justify-content: space-around;
+    width: 1350px;
+    height: 200px;
+}
+.b3{
+    margin-left: 620px;
+}
+.a1{
+    border: 0px solid;
+    display: flex;
+    justify-content: space-around;
+     width: 1350px;
+     height: 200px;
+ }
